@@ -2,7 +2,7 @@
 
 ### Requirements
 
-Python
+Python<br>
 Command line
 
 ### Setup
