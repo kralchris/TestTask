@@ -1,3 +1,4 @@
+@author: Kristijan <kristijan.sarin@gmail.com>
 # Test Task
 
 ### Requirements
