@@ -30,3 +30,8 @@ python main.py ./source ./copy 60 ./log.txt
 ```
 
 _**Note:** Of course, you are allowed to use absolute paths too._
+
+### Exiting the app
+
+
+Press <b>CTRL+C</b> to stop the script.
